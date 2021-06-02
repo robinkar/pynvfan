@@ -1,0 +1,2 @@
+# pynvfan
+Small Python script for controlling Nvidia GPU fans. Uses [Python.NET](https://github.com/pythonnet/pythonnet) to call [NvAPIWrapper](https://github.com/falahati/NvAPIWrapper) to control the fans.
